@@ -1,0 +1,19 @@
+{
+  "name": "@mstssk/sample-npm-pkg",
+  "version": "0.0.0",
+  "description": "Sample repository for how to make npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstssk/sample-npm-pkg.git"
+  },
+  "author": "mstssk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstssk/sample-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/mstssk/sample-npm-pkg#readme"
+}
