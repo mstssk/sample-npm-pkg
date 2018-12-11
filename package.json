@@ -4,7 +4,7 @@
   "description": "Sample repository for how to make npm package.",
   "main": "index.js",
   "bin": {
-    "sample-npm-pkg": "./bin/sum"
+    "sample-npm-pkg-sum": "./bin/sample-npm-pkg-sum"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
