@@ -1,6 +1,6 @@
 {
   "name": "@mstssk/sample-npm-pkg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sample repository for how to make npm package.",
   "main": "index.js",
   "bin": {
